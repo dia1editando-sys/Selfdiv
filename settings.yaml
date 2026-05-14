@@ -1,0 +1,30 @@
+mongo_db_url: mongodb+srv://storecod:storecod@cluster2.o40doow.mongodb.net/test
+mongo_cluster_name: testebemgay
+mask_link: false
+mask: https://discord.gg/rdp
+dm_reaction: true
+dm_pin: false
+dm_typing: true
+dm_reply: true
+dm_cooldown: 67
+event_message: true 
+event_voice: true
+reactions: 
+ - ❤️
+ - 😘
+ - 😍
+ - 💓
+ - 💖
+ - 🥰
+
+reply_messages: 
+ - Desculpa o incomodo anjo :')
+ - Eu nem me apresentei né kk
+ - Prazer sou sua nova amiguinha, fofo(a)
+ - Que tal, sermos amigos? seria uma boa ideia certo?
+ - Vem me ver em call, jogar e se divertir, favorzin rs
+ - Se gostar do nosso servidor, poderia até estar aderindo a staff?
+ - Deixaria a amguinha muito feliz, rs kk
+ - Foi um prazer conhece-lo(a), gute gute ...
+ - Te espero lá amorzinho, junto com minhas amigas ...
+ 
