@@ -1,0 +1,8 @@
+{
+    "delay": 0,
+    "maxDmPerToken": 1000,
+    "breakOnCaptcha": true,
+    "waitMessage": false,
+    "startTaskSleep": 0.6,
+    "multiThreadsTask": true
+}
